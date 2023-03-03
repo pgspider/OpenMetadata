@@ -45,7 +45,7 @@
         "QueryLog",
         "CustomDatabase",
         "Dbt",
-	      "PGSpider"
+        "PGSpider"
       ],
       "javaEnums": [
         {
@@ -138,7 +138,7 @@
         {
           "name": "Dbt"
         },
-	      {
+        {
           "name": "PGSpider"
         }
       ]
@@ -237,7 +237,7 @@
             {
               "$ref": "./connections/database/customDatabaseConnection.json"
             },
-	          {
+            {
               "$ref": "./connections/database/pgspiderConnection.json"
             }
           ]
